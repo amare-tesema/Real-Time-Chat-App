@@ -36,7 +36,6 @@ This app enables seamless 1-on-1 and group chat messaging, file sharing, and vid
 /README.md      # Project overview and documentation
 
 ```
-
 ---
 
 ## 🤝 Contributing
